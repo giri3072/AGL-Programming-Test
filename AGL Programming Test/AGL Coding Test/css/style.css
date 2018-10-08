@@ -1,0 +1,27 @@
+
+body {
+
+    background:#0080ff;
+}
+
+.content {
+    width: 25%;
+    margin: 3rem auto;
+    background-color: white;
+    padding: 2rem;
+    border: 3px solid black;
+
+}
+ul {
+
+    list-style-type: lower-alpha;
+
+    margin: 1rem 0;
+}
+ul li{
+
+    line-height: 1.7;
+}
+h2 {
+    text-decoration: underline;
+}
