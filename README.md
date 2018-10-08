@@ -22,6 +22,9 @@ Submissions will only be accepted via github or bitbucket Use industry best prac
 
 # Sources
 https://www.w3schools.com
+
 https://github.com
+
 https://codeburst.io
+
 https://stackoverflow.com
